@@ -16,4 +16,4 @@ Input A and B will only be in range (0-255) . For operator:
 * 4 - Divide
 
 2. Click Run Model.
-3. The answer will be displayed in 7 segment display. 
+3. The answer will be displayed in 7 segment display. It is also 8 bit unsigned (0-255).
